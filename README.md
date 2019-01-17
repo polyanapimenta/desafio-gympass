@@ -5,7 +5,7 @@ A partir de um input de um arquivo de log, montar o resultado da corrida com as 
 Posição Chegada, Código Piloto, Nome Piloto, Qtde Voltas Completadas e Tempo Total de Prova.
 
 Obs:
-*A corrida termina quando o primeiro colocado completa 4 voltas
+* A corrida termina quando o primeiro colocado completa 4 voltas
   (Ganha quem completa o numero de voltas em um tempo mais curto)
   
  Bônus:
