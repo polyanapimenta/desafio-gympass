@@ -30,6 +30,6 @@ Instruções para rodar o projeto:
 * Usar máquina Windows (O projeto não foi testado em Linux ou Mac, podendo haver variações de diretorio)
 * IDE sugerida: Eclipse
 * Extrair SQLite.zip em C:\
-**Após ter feito a extração, verificar se o caminho segue igual a: C:\sqlite\db**
-**Obs: Dentro da IDE Eclipse verificar se o jar que se encontra na diretorio "lib\sqlite-jdbc-3.23.1.jar" se encontra dentro do [Java Build Path (em Referenced Libraries)](https://pt.wikihow.com/Adicionar-JARs-nos-Caminhos-de-Acesso-de-Projeto-em-Eclipse-(Java))**
+* **Após ter feito a extração, verificar se o caminho segue igual a: C:\sqlite\db**
+* **Obs: Dentro da IDE Eclipse verificar se o jar que se encontra na diretorio "lib\sqlite-jdbc-3.23.1.jar" se encontra dentro do [Java Build Path (em Referenced Libraries)](https://pt.wikihow.com/Adicionar-JARs-nos-Caminhos-de-Acesso-de-Projeto-em-Eclipse-(Java))**
 * Apenas isso para poder rodar o projeto dentro da IDE..
