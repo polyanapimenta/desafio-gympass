@@ -10,10 +10,10 @@ Obs:
   
  Bônus:
  ------
- *Descobrir a melhor volta de cada piloto
- *Descobrir a melhor volta da corrida
- *Calcular a velocidade média de cada piloto durante toda corrida
- *Descobrir quanto tempo cada piloto chegou após o vencedor
+ * Descobrir a melhor volta de cada piloto
+ * Descobrir a melhor volta da corrida
+ * Calcular a velocidade média de cada piloto durante toda corrida
+ * Descobrir quanto tempo cada piloto chegou após o vencedor
 
 Solução:
 --------
@@ -27,9 +27,9 @@ Diagrama de entidade e relacionamento:
 Instruções para rodar o projeto:
 --------------------------------
 
--> Usar máquina windows (projeto não foi testado em Linux ou Mac)
--> IDE sugerida: Eclipse
--> Extrair SQLite.zip em C:\
+* Usar máquina windows (projeto não foi testado em Linux ou Mac)
+* IDE sugerida: Eclipse
+* Extrair SQLite.zip em C:\
 **Após ter feito a extração, verificar se o caminho segue igual a: C:\sqlite\db**
 **Obs: Dentro da IDE Eclipse verificar se o jar que se encontra na diretorio "lib\sqlite-jdbc-3.23.1.jar" se encontra dentro do [Java Build Path (em Referenced Libraries)](https://pt.wikihow.com/Adicionar-JARs-nos-Caminhos-de-Acesso-de-Projeto-em-Eclipse-(Java))**
--> Apenas isso para poder rodar o projeto dentro da IDE..
+* Apenas isso para poder rodar o projeto dentro da IDE..
