@@ -195,6 +195,48 @@ Saída nos demais métodos bônus:
 
 #### velocidadeMediaCadaPiloto()
 
+```
+-----------------------------------------
+	VELOCIDADE MEDIA NA CORRIDA
+-----------------------------------------
+
+
+ Código Piloto: 038
+ Nome Piloto: F.MASSA
+ Velocidade Media na Corrida: 160,26 Km/h
+
+-----------------------------------------
+
+ Código Piloto: 002
+ Nome Piloto: K.RAIKKONEN
+ Velocidade Media na Corrida: 158,02 Km/h
+
+-----------------------------------------
+
+ Código Piloto: 033
+ Nome Piloto: R.BARRICHELLO
+ Velocidade Media na Corrida: 157,44 Km/h
+
+-----------------------------------------
+
+ Código Piloto: 023
+ Nome Piloto: M.WEBBER
+ Velocidade Media na Corrida: 156,44 Km/h
+
+-----------------------------------------
+
+ Código Piloto: 015
+ Nome Piloto: F.ALONSO
+ Velocidade Media na Corrida: 137,88 Km/h
+
+-----------------------------------------
+
+ Código Piloto: 011
+ Nome Piloto: S.VETTEL
+ Velocidade Media na Corrida: 93,25 Km/h
+
+-----------------------------------------
+```
 #### tempoChegadaAposVencedor()
 
 Instruções para rodar o projeto:
