@@ -42,12 +42,12 @@ Inserindo registros.. Aguarde..
 ```
 PILOTO:
 codigo	nome		id_classificacao
-038	F.MASSA		      1
+038	F.MASSA	  	1
 033	R.BARRICHELLO		2
-002	K.RAIKKONEN		  3
-023	M.WEBBER		    4
-015	F.ALONSO		    5
-011	S.VETTEL		    6
+002	K.RAIKKONEN		3
+023	M.WEBBER		4
+015	F.ALONSO		5
+011	S.VETTEL		6
 ```
 
 ```
@@ -104,6 +104,18 @@ id	hora		volta	tempo_volta	velocidade_media_volta
 21	23:53:06.741	4	 1,20050		 34,76
 22	23:53:39.660	2	 1,37864		 28,44
 23	23:54:57.757	3	 1,18097		 35,63
+```
+
+```
+CLASSIFICACAO:
+id	hora_chegada	ultima_volta	tempo_prova	velocidade_media
+1	23:52:17.003	4		 4,11578		 160,26
+2	23:52:22.586	4		 4,16080		 157,44
+3	23:52:22.120	4		 4,15153		 158,02
+4	23:52:25.975	4		 4,17722		 156,44
+5	23:53:06.741	4		 4,54221		 137,88
+6	23:54:57.757	3		 5,87276		 93,25
+
 ```
 
 Instruções para rodar o projeto:
