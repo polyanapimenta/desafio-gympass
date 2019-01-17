@@ -24,6 +24,33 @@ Diagrama de entidade e relacionamento:
 
 > Inserir DER <
 
+Exemplo de saída do programa:
+-----------------------------
+
+Conexao com SQLite estabelecida!
+
+Criando tabelas no banco de dados..
+```
+CREATE TABLE IF NOT EXISTS CORRIDA (COD_PILOTO text, ID_REGISTRO integer, PRIMARY KEY (COD_PILOTO, ID_REGISTRO), FOREIGN KEY (COD_PILOTO) REFERENCES PILOTO (CODIGO), FOREIGN KEY (ID_REGISTRO) REFERENCES REGISTRO (ID));
+CREATE TABLE IF NOT EXISTS PILOTO (codigo text PRIMARY KEY, nome text NOT NULL, id_classificacao, FOREIGN KEY (id_classificacao) REFERENCES CLASSIFICACAO (id));
+CREATE TABLE IF NOT EXISTS REGISTRO (id integer PRIMARY KEY AUTOINCREMENT, hora text NOT NULL, volta int NOT NULL, tempo_volta real NOT NULL, velocidade_media_volta real NOT NULL);
+CREATE TABLE IF NOT EXISTS CLASSIFICACAO (id integer PRIMARY KEY AUTOINCREMENT, hora_chegada text NOT NULL, ultima_volta int NOT NULL, tempo_prova real NOT NULL, velocidade_media real NOT NULL);
+```
+
+Inserindo registros.. Aguarde..
+
+```
+PILOTO:
+codigo	nome		id_classificacao
+038	F.MASSA		1
+033	R.BARRICHELLO		2
+002	K.RAIKKONEN		3
+023	M.WEBBER		4
+015	F.ALONSO		5
+011	S.VETTEL		6
+```
+
+
 Instruções para rodar o projeto:
 --------------------------------
 
