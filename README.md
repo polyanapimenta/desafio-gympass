@@ -141,7 +141,7 @@ Saída no método resultadoCorrida()
  Código Piloto: 038
  Nome Piloto: F.MASSA
  Qtd. de Voltas Concluidas: 4
- Tempo Total de Prova: 4,11578 Minutos
+ Tempo Total de Prova: 4,116 Minutos
 
 ---------------------------------------
 
@@ -149,7 +149,7 @@ Saída no método resultadoCorrida()
  Código Piloto: 002
  Nome Piloto: K.RAIKKONEN
  Qtd. de Voltas Concluidas: 4
- Tempo Total de Prova: 4,15153 Minutos
+ Tempo Total de Prova: 4,152 Minutos
 
 ---------------------------------------
 
@@ -157,7 +157,7 @@ Saída no método resultadoCorrida()
  Código Piloto: 033
  Nome Piloto: R.BARRICHELLO
  Qtd. de Voltas Concluidas: 4
- Tempo Total de Prova: 4,16080 Minutos
+ Tempo Total de Prova: 4,161 Minutos
 
 ---------------------------------------
 
@@ -165,7 +165,7 @@ Saída no método resultadoCorrida()
  Código Piloto: 023
  Nome Piloto: M.WEBBER
  Qtd. de Voltas Concluidas: 4
- Tempo Total de Prova: 4,17722 Minutos
+ Tempo Total de Prova: 4,177 Minutos
 
 ---------------------------------------
 
@@ -173,7 +173,7 @@ Saída no método resultadoCorrida()
  Código Piloto: 015
  Nome Piloto: F.ALONSO
  Qtd. de Voltas Concluidas: 4
- Tempo Total de Prova: 4,54221 Minutos
+ Tempo Total de Prova: 4,542 Minutos
 
 ---------------------------------------
 
@@ -181,7 +181,7 @@ Saída no método resultadoCorrida()
  Código Piloto: 011
  Nome Piloto: S.VETTEL
  Qtd. de Voltas Concluidas: 3
- Tempo Total de Prova: 5,87276 Minutos
+ Tempo Total de Prova: 5,873 Minutos
 
 ---------------------------------------
 ```
