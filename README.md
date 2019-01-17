@@ -127,6 +127,10 @@ id	hora_chegada	ultima_volta	tempo_prova	velocidade_media
 
 ```
 
+### Saída no método resultadoCorrida()
+
+### Saída nos demais métodos bônus:
+
 Instruções para rodar o projeto:
 --------------------------------
 
