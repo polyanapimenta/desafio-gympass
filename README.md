@@ -28,15 +28,17 @@ Exemplo de saída do programa:
 -----------------------------
 
 Obs: 
+
 *Unidades de medidas consideradas*
-*tabela Classificacao:
-*velocidade_media lê em KM/h
-*tempo_prova lê em minuto
 
-*tabela Registro:
-*velocidade_media_volta lê em m/s
-*tempo_volta lê minutos  
+tabela Classificacao:
+* velocidade_media lê em KM/h
+* tempo_prova lê em minuto
 
+tabela Registro:
+* velocidade_media_volta lê em m/s
+* tempo_volta lê minutos  
+---------------------------------
 Conexao com SQLite estabelecida!
 
 Criando tabelas no banco de dados..
