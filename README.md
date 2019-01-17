@@ -42,7 +42,7 @@ Inserindo registros.. Aguarde..
 ```
 PILOTO:
 codigo	nome		id_classificacao
-038	F.MASSA	  	      1
+038	F.MASSA	  	       1
 033	R.BARRICHELLO		2
 002	K.RAIKKONEN		3
 023	M.WEBBER		4
