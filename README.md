@@ -24,20 +24,18 @@ Diagrama de entidade e relacionamento:
 
 > Inserir DER <
 
+
+Observação de unidades de medidas consideradas no progrma: 
+-----------
+> #### Tabela Classificacao:
+> * velocidade_media lê em Km/h
+> * tempo_prova lê em minuto
+> #### Tabela Registro:
+> * velocidade_media_volta lê em m/s
+> * tempo_volta lê em Minutos  
+
 Exemplo de saída do programa:
 -----------------------------
-
-Observação: 
-
-###Unidades de medidas consideradas###
-
-####tabela Classificacao:####
-* velocidade_media lê em KM/h
-* tempo_prova lê em minuto
-
-####tabela Registro:####
-* velocidade_media_volta lê em m/s
-* tempo_volta lê em minutos  
 
 Conexao com SQLite estabelecida!
 
