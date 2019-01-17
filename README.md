@@ -193,6 +193,20 @@ Saída nos demais métodos bônus:
 
 #### melhorVoltaNaCorrida()
 
+```
+-----------------------------------------
+	MELHOR VOLTA NA CORRIDA
+-----------------------------------------
+
+ Código Piloto: 038
+ Nome Piloto: F.MASSA
+ Volta: 3
+ Tempo da Volta: 1,028 Minutos
+ Velocidade Media na Volta: 160,58 Km/h
+
+---------------------------------------
+```
+
 #### velocidadeMediaCadaPiloto()
 
 ```
