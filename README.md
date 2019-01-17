@@ -131,6 +131,61 @@ Saída no método resultadoCorrida()
 ----------------------------------
 #### resultadoCorrida()
 
+```
+---------------------------------------
+	RESULTADO DA CORRIDA
+---------------------------------------
+
+
+ Posicao de chegada: 1 Lugar
+ Código Piloto: 038
+ Nome Piloto: F.MASSA
+ Qtd. de Voltas Concluidas: 4
+ Tempo Total de Prova: 4,11578 Minutos
+
+---------------------------------------
+
+ Posicao de chegada: 2 Lugar
+ Código Piloto: 002
+ Nome Piloto: K.RAIKKONEN
+ Qtd. de Voltas Concluidas: 4
+ Tempo Total de Prova: 4,15153 Minutos
+
+---------------------------------------
+
+ Posicao de chegada: 3 Lugar
+ Código Piloto: 033
+ Nome Piloto: R.BARRICHELLO
+ Qtd. de Voltas Concluidas: 4
+ Tempo Total de Prova: 4,16080 Minutos
+
+---------------------------------------
+
+ Posicao de chegada: 4 Lugar
+ Código Piloto: 023
+ Nome Piloto: M.WEBBER
+ Qtd. de Voltas Concluidas: 4
+ Tempo Total de Prova: 4,17722 Minutos
+
+---------------------------------------
+
+ Posicao de chegada: 5 Lugar
+ Código Piloto: 015
+ Nome Piloto: F.ALONSO
+ Qtd. de Voltas Concluidas: 4
+ Tempo Total de Prova: 4,54221 Minutos
+
+---------------------------------------
+
+ Posicao de chegada: 6 Lugar
+ Código Piloto: 011
+ Nome Piloto: S.VETTEL
+ Qtd. de Voltas Concluidas: 3
+ Tempo Total de Prova: 5,87276 Minutos
+
+---------------------------------------
+```
+
 Saída nos demais métodos bônus:
 -------------------------------
 
