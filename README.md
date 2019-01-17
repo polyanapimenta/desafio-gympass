@@ -25,7 +25,7 @@ Diagrama de entidade e relacionamento:
 > Inserir DER <
 
 
-### Observação de unidades de medidas consideradas no progrma: 
+### Unidades de medidas consideradas no progrma: 
 > #### Tabela Classificacao:
 > * velocidade_media lê em Km/h
 > * tempo_prova lê em minuto
