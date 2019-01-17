@@ -129,6 +129,7 @@ id	hora_chegada	ultima_volta	tempo_prova	velocidade_media
 
 Saída no método resultadoCorrida()
 ----------------------------------
+#### resultadoCorrida()
 
 Saída nos demais métodos bônus:
 -------------------------------
