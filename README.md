@@ -20,9 +20,11 @@ Solução:
 
 A solução foi desenvolvida em Java, utilizando a estratégia de criar uma modelagem de banco de dados relacional com [SQLite](http://www.sqlitetutorial.net/sqlite-java/) para armazenar os dados de log da corrida de kart de forma organizada de acordo com o DER abaixo.
 
-Diagrama de entidade e relacionamento:
+Modelo Entidade Relacionamento:
 
 > ![MER](/mer.png "Diagrama Entidade Relacionamento")
+
+Diagrama Entidade Relacionamento:
 
 > ![DER](/der.png "Modelo Entidade Relacionamento")
 
