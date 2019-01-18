@@ -262,7 +262,7 @@ Instruções para rodar o projeto:
 
 * Usar máquina Windows (O projeto não foi testado em Linux ou Mac, podendo haver variações de diretorio)
 * IDE sugerida: Eclipse
-* Extrair SQLite.zip em C:\
-* **Após ter feito a extração, verificar se o caminho segue igual a: C:\sqlite\db**
+* Copiar toda a pasta "\sqlite" para a raiz de C:\
+* **Feito isso, verificar se o caminho segue igual a: C:\sqlite\db**
 * **Obs: Dentro da IDE Eclipse verificar o jar que se encontra no diretorio "~\desafio-gympass\interview-test\lib\sqlite-jdbc-3.23.1.jar" está dentro do [Java Build Path (em Referenced Libraries)](https://pt.wikihow.com/Adicionar-JARs-nos-Caminhos-de-Acesso-de-Projeto-em-Eclipse-(Java))**
 * Apenas isso para rodar o projeto na IDE..
