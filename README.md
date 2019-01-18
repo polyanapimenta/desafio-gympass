@@ -22,9 +22,9 @@ A solução foi desenvolvida em Java, utilizando a estratégia de criar uma mode
 
 Diagrama de entidade e relacionamento:
 
-> ![DER](/img/der.png "Modelo Entidade Relacionamento")
+> ![MER](/mer.png "Diagrama Entidade Relacionamento")
 
-> ![MER](/img/mer.png "Diagrama Entidade Relacionamento")
+> ![DER](/der.png "Modelo Entidade Relacionamento")
 
 
 ### Unidades de medidas consideradas no progrma: 
