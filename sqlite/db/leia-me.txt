@@ -1,0 +1,2 @@
+copiar o diretorio "\sqlite\db" para C:
+Ex: "C:\sqlite\db\"
